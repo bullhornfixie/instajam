@@ -1,25 +1,17 @@
-# README
+# InstaJam on Rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## User Stories 
 
-Things you may want to cover:
+```
+As a user 
+So I can show my friends how jammy I am 
+I want to upload photos of my life 
+[ ]
+```
+```
+As a user 
+So I can tell my friends where I am jamming 
+I want to add comments to my photos 
+[ ]
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# instajam-
